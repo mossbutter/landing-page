@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;1,100&display=swap');
+
+body {
+  background-color: #1F2937;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Header container styling */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1F2937;
+  color: #fff;
+  padding: 0 20px 20px 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Logo section styling */
+.logo {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+/* Nav link stling */
+.header ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 15px;
+  font-size: 18px;
+}
+
+/* Link styling */
+
+a {
+  text-decoration: none;
+  padding: 8px;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Container holding the entire hero section */
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  max-width: fit-content;
+  margin: 0 auto;
+  padding: 0 auto;
+  padding-bottom: 10px;
+
+}
+
+
+/* Paragraph styling for hero section */
+.hero-text {
+  font-size: 20px;
+  max-width: 30%;
+  padding: 4rem 7rem 4rem 0;
+
+}
+
+/* Header styling for hero section */
+.hero-text h1 {
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #F9FAF8;
+}
+
+/* hero image */
+.hero-image {
+  max-height: 300px;
+  padding: 0;
+  max-width: fit-content;
+  margin-bottom: inherit;
+}
+
+/* Image place holder for hero section */
+.placeholder {
+  background-color: #E5E7EB;
+  height: 300px;
+  width: 500px;
+}
+
+
+/* Image place holders for thumbnails */
+li.placeholder {
+  width: 175px;
+  height: 175px;
+  border: 3px #3882F6 solid;
+  border-radius: 10px;
+  background-color: #fff;
+
+}
+
+/* Image place holder caption text */
+.placeholder p {
+  display: block;
+  margin-top: 18rem;
+  text-align: center;
+  color: #5d5e5f;
+
+}
+
+
+/* Information + thumbnail section */
+.products-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  color: #000;
+  padding-bottom: 10%;
+
+}
+
+
+/* "Some random information." */
+.products-container h1 {
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1F2937;
+
+}
+
+.products-container ul,
+li {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 2rem;
+
+}
+
+
+
+/* Hero button styling */
+.hero-btn {
+  background-color: #3882F6;
+  border-radius: 5px;
+  padding: 10px;
+  width: 150px;
+  border: 0;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Quote container */
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E5E7EB;
+
+}
+
+/* Quote text */
+.quote {
+  font-size: 35px;
+  font-weight: medium;
+  font-style: italic;
+  color: #1F2937;
+  padding: 10px 100px 0 100px;
+  width: 25%;
+
+}
+
+div#quote-credit {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  left: inherit;
+  right: -200px;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 10px 20px 0;
+  letter-spacing: 1px;
+
+}
+
+/* CTA container */
+.CTA-container {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  color: #fff;
+  padding: 50px 50px 50px 50px;
+}
+
+/* CTA blurb styling */
+.CTA-box {
+  display: flex;
+  background-color: #3882F6;
+  border-radius: 15px;
+  width: auto;
+  padding: 10px 10px 10px 10px;
+
+}
+
+.CTA-box p {
+  font-size: 20px;
+  margin-top: -10px;
+}
+
+.CTA-contents {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 100%;
+  margin: 30px;
+}
+
+/* CTA button container */
+.button-container {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+}
+
+/* CTA button styling */
+.CTA-btn {
+  height: 30%;
+  display: flex;
+  background-color: #3882F6;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 2px #fff solid;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  width: 200px;
+  font-size: 20px;
+}
+
+
+
+/* Footer styling */
+footer {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
