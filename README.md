@@ -15,7 +15,7 @@ I enjoyed the challenge of only using an image reference.
 1 day, around 6 hours a day between researching and coding. I looked up things like CSS rounded corners and importing fonts.
 
 ## Additional notes 🗒️
-As an extra challenge to myself, I completed around 400 lines of code in nano using the terminal before I took it to VS Code for final tweaks, super proud!
+As an extra challenge to myself, I completed around 400 lines of code in nano using the terminal before I took it to VS Code for final tweaks, super proud! I would have liked to have done this with SCSS.
  
 ### Tools ⚙️ 
 VSCode, git, HTML5, CSS3, nano, flexbox, ReadMe Editor
