@@ -1,5 +1,5 @@
 
-# Landing Page: The Odin Project📝  
+# Landing Page: The Odin Project 📝  
 Project #2 in Foundations. Building a website using a [photo](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) reference.  
 
 ## Expectation 🚀  
