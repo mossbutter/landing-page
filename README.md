@@ -3,7 +3,7 @@
 Project #2 in Foundations. Building a website using a [photo](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) reference.  
 
 ## Expectation 🚀  
-- Learn how to create a website using flexbox and only a photo refernece. 
+- Learn how to create a website using flexbox and only a photo reference. 
 - No inspecting elements of other examples. 
 - Using search engines to figure out the gaps.
 
